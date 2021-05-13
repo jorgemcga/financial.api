@@ -1,0 +1,16 @@
+C:\source\testes\Teste.ExpiredTitle\Fretespot.Api.Domain\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.csprojAssemblyReference.cache
+C:\source\testes\Teste.ExpiredTitle\Fretespot.Api.Domain\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.AssemblyInfoInputs.cache
+C:\source\testes\Teste.ExpiredTitle\Fretespot.Api.Domain\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.AssemblyInfo.cs
+C:\source\testes\Teste.ExpiredTitle\Fretespot.Api.Domain\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.csproj.CoreCompileInputs.cache
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\bin\Debug\netcoreapp2.0\ExpiredTitle.Core.deps.json
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\bin\Debug\netcoreapp2.0\ExpiredTitle.Core.dll
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\bin\Debug\netcoreapp2.0\ExpiredTitle.Core.pdb
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\bin\Debug\netcoreapp2.0\ExpiredTitle.Common.dll
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\bin\Debug\netcoreapp2.0\ExpiredTitle.Common.pdb
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.csprojAssemblyReference.cache
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.AssemblyInfoInputs.cache
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.AssemblyInfo.cs
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.csproj.CoreCompileInputs.cache
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.csproj.CopyComplete
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.dll
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Core\obj\Debug\netcoreapp2.0\ExpiredTitle.Core.pdb

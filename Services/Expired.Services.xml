@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Services</name>
+    </assembly>
+    <members>
+        <member name="M:Financial.API.Services.Controllers.ExpiredTitleController.#ctor(Financial.API.Common.Services.IExpiredTitleService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="service"></param>
+        </member>
+        <member name="M:Financial.API.Services.Controllers.ExpiredTitleController.Get">
+            <summary>
+            Return Expired Titles
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Financial.API.Services.Controllers.ExpiredTitleController.Post(Financial.API.Common.ViewModel.ExpiredTitleViewModel)">
+            <summary>
+            New Expired Title
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

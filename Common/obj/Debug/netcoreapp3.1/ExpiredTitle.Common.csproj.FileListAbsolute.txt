@@ -1,0 +1,9 @@
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\bin\Debug\netcoreapp3.1\ExpiredTitle.Common.deps.json
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\bin\Debug\netcoreapp3.1\ExpiredTitle.Common.dll
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\bin\Debug\netcoreapp3.1\ExpiredTitle.Common.pdb
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\obj\Debug\netcoreapp3.1\ExpiredTitle.Common.csprojAssemblyReference.cache
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\obj\Debug\netcoreapp3.1\ExpiredTitle.Common.AssemblyInfoInputs.cache
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\obj\Debug\netcoreapp3.1\ExpiredTitle.Common.AssemblyInfo.cs
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\obj\Debug\netcoreapp3.1\ExpiredTitle.Common.csproj.CoreCompileInputs.cache
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\obj\Debug\netcoreapp3.1\ExpiredTitle.Common.dll
+C:\source\testes\Teste.ExpiredTitle\ExpiredTitle.Common\obj\Debug\netcoreapp3.1\ExpiredTitle.Common.pdb

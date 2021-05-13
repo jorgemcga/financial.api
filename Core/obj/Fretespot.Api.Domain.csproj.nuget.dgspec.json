@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Domain\\Fretespot.Api.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Domain\\Fretespot.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Domain\\Fretespot.Api.Domain.csproj",
+        "projectName": "Fretespot.Api.Domain",
+        "projectPath": "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Domain\\Fretespot.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\jmiguel\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jmiguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://epharmapbm.pkgs.visualstudio.com/_packaging/ePharmaNuget/nuget/v3/index.json": {},
+          "https://nuget.epharma.com.br/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Infra.Helper\\Fretespot.Api.Infra.Helper.csproj": {
+                "projectPath": "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Infra.Helper\\Fretespot.Api.Infra.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Infra.Helper\\Fretespot.Api.Infra.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Infra.Helper\\Fretespot.Api.Infra.Helper.csproj",
+        "projectName": "Fretespot.Api.Infra.Helper",
+        "projectPath": "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Infra.Helper\\Fretespot.Api.Infra.Helper.csproj",
+        "packagesPath": "C:\\Users\\jmiguel\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\testes\\Teste.ExpiredTitle\\Fretespot.Api.Infra.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jmiguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://epharmapbm.pkgs.visualstudio.com/_packaging/ePharmaNuget/nuget/v3/index.json": {},
+          "https://nuget.epharma.com.br/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

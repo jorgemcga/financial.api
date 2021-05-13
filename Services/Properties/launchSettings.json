@@ -1,0 +1,25 @@
+{
+    "iisSettings": {
+        "windowsAuthentication": false,
+        "anonymousAuthentication": true,
+        "iisExpress": {
+            "applicationUrl": "http://localhost:59522/",
+            "sslPort": 0
+        }
+    },
+    "profiles": {
+        "IIS Express": {
+            "commandName": "IISExpress",
+            "launchBrowser": true
+        },
+        "ExpiredTitle.Services": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "launchUrl": "",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "applicationUrl": "http://localhost:59522/"
+        }
+    }
+}

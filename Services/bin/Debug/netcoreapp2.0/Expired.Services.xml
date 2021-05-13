@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Expired.Services</name>
+    </assembly>
+    <members>
+        <member name="M:ExpiredTitle.Services.Controllers.BaseController.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:ExpiredTitle.Services.Controllers.BaseController.HttpResponseSuccess(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="response"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExpiredTitle.Services.Controllers.BaseController.HttpResponseError(System.Exception)">
+            <summary>
+            Generic error
+            </summary>
+            <param name="exception"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExpiredTitle.Services.Controllers.BaseController.HttpResponseError(Expired.Services.Model.CustomException)">
+            <summary>
+            Exception Dictionary
+            </summary>
+            <param name="exception"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExpiredTitle.Services.Controllers.ExpiredTitleController.#ctor(ExpiredTitle.Common.Services.IExpiredTitleService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="service"></param>
+        </member>
+        <member name="M:ExpiredTitle.Services.Controllers.ExpiredTitleController.Get">
+            <summary>
+            Return Expired Titles
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ExpiredTitle.Services.Controllers.ExpiredTitleController.Post(TitleExpired.Common.Entities.ExpiredTitleEntity)">
+            <summary>
+            New Expired Title
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExpiredTitle.Services.Startup.RegisterServices(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)">
+            <summary>
+            register isolated
+            </summary>
+            <param name="services"></param>
+            <param name="connectionString"></param>
+        </member>
+    </members>
+</doc>
